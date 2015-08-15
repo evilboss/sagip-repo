@@ -22,5 +22,5 @@ useraccounts:semantic-ui
 natestrauser:animate-css
 dburles:collection-helpers
 meteorhacks:fast-render
-
+useraccounts:iron-routing
 semantic:ui-css

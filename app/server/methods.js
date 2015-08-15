@@ -1,9 +1,11 @@
 /*****************************************************************************/
-/*  Server Methods */
+/* Server Only Methods */
 /*****************************************************************************/
-
 Meteor.methods({
-  'server/method_name': function () {
-    // server method logic
-  }
+  /*
+   * Example:
+   *
+   * '/app/items/insert': function (item) {
+   * }
+   */
 });
